@@ -1,1 +1,1 @@
-console.log("Vendor API");
+console.log('Vendor API');
